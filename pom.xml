@@ -21,6 +21,10 @@
   		<scope>provided</scope>
   	</dependency>
   </dependencies>
+  <scm>
+		<connection>scm:git:ssh://git@stash.chotel.com:7999/dev/aws-infrastructure-service.git</connection>
+		<developerConnection>scm:git:ssh://git@stash.chotel.com:7999/dev/aws-infrastructure-service.git</developerConnection>
+	</scm>
   <build>
     <plugins>
       <plugin>
